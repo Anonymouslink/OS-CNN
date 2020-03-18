@@ -1,5 +1,3 @@
-This is code for the paper here: https://arxiv.org/abs/2002.10061
-
 ###
 For use： 
 my environment is:
