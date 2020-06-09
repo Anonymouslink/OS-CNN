@@ -1,3 +1,0 @@
-train_acc=	0.5	 test_acc=	0.5
-train_acc=	0.5	 test_acc=	0.5
-train_acc=	0.5	 test_acc=	0.5
